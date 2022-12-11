@@ -1,3 +1,3 @@
 # Huffman-Compression
 Compression by frequency.<br>
-I am sharing a code that I found very interesting and cool!
+I am sharing some of my code that I found very interesting and cool!
